@@ -1,7 +1,14 @@
 # Construcción de Instrumentos Psicológicos
 
-¡Bienvenido al curso Introducción a Python para la Investigación Psicológica! 
+¡Bienvenidos! 
 
-En esta página están presentes los tutoriales y guías prácticas de Google Colab que usaremos en las sesiones del curso. 
+En esta página encontraran tutoriales y ejercicios de Construcción de Instrumentos Psicológicos para Psicología
+
+## Comparación de medias
+
+|   | Código|
+| - | --- | 
+|Correlación| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Normalidad.ipynb)|
+|Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
 
 ## Materiales del curso
