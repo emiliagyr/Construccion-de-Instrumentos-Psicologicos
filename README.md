@@ -8,7 +8,7 @@ En esta página encontraran tutoriales y ejercicios para en análisis de datos e
 
 |   | Código|
 | - | --- | 
-|Correlación| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Normalidad.ipynb)|
-|Comparación de medias | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
+|Correlación| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/Construccion-de-Instrumentos-Psicologicos/blob/main/Colab/Correlacion.ipynb)|
+|Análisis Factorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emiliagyr/EstadisticaExperimental/blob/main/Comparación_de_medias.ipynb)|
 
 ## Materiales del curso
