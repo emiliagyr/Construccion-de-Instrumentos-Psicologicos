@@ -2,7 +2,7 @@
 
 ¡Bienvenidos! 
 
-En esta página encontraran tutoriales y ejercicios de Construcción de Instrumentos Psicológicos para Psicología
+En esta página encontraran tutoriales y ejercicios para en análisis de datos en el curso de Construcción de Instrumentos Psicológicos para Psicología
 
 ## Comparación de medias
 
